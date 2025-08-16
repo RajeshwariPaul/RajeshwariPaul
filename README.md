@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 # RAJESHWARI PAUL  
 **Business Analytics | Data Analyst**  
 📍 Rajajinagar, Bangalore, 560010 | 📞 +91 9148298805  
-📧 rajeshwaripaul112@gmail.com | [LinkedIn](#) | [GitHub](#) | [Portfolio](#)  
+📧 rajeshwaripaul112@gmail.com | [LinkedIn](#) | [GitHub](https://github.com/RajeshwariPaul) | [Portfolio](#)  
 
 ---
 
